@@ -4,5 +4,5 @@ Live demo: https://joannakopystecka.github.io/The-cake-shop/
 
 ### Project goals:
 - mobile-first workflow,
-- building responsive landing page,
-- CSS and JavaScript animations.
+- building a responsive landing page,
+- using CSS and JavaScript animations.
