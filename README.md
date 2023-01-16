@@ -1,11 +1,8 @@
-# The-cake-shop
+# Responsive cake shop website
 
-https://joannakopystecka.github.io/The-cake-shop/
+Live demo: https://joannakopystecka.github.io/The-cake-shop/
 
-Responsywna strona internetowa firmy. Wykorzystałam animacje stworzyne przy użyciu CSS i JavaScript.
-
-Cele projektu: 
-- responsywna strona mobile first
-- animacje CSS
-- animacjee przy użciu JavaScript
-- hamburger menu bez Bootstrapa
+### Project goals:
+- mobile-first workflow,
+- building responsive landing page,
+- CSS and JavaScript animations.
