@@ -1,6 +1,6 @@
 # Responsive cake shop website
 
-Live demo: https://joannakopystecka.github.io/The-cake-shop/
+Live demo: https://joannakopystecka.github.io/the-cake-shop-landing-page/
 
 ### Project goals:
 - mobile-first workflow,
